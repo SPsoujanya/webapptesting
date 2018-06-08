@@ -2,7 +2,7 @@ group 'com.soujanya'
 version '1.0-SNAPSHOT'
 
 apply plugin: 'java'
-
+//simple
 sourceCompatibility = 1.8
 
 repositories {
